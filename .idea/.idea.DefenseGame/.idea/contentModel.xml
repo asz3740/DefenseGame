@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Unity\DefenseGame" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="BuildManager.cs" t="Include" />
+          <e p="Bullet.cs" t="Include" />
+          <e p="Effect.cs" t="Include" />
+          <e p="Enemy.cs" t="Include" />
+          <e p="EnemyMovement.cs" t="Include" />
+          <e p="GameManager.cs" t="Include" />
+          <e p="GameOver.cs" t="Include" />
+          <e p="LivesUI.cs" t="Include" />
+          <e p="Menu.cs" t="Include" />
+          <e p="MoneyUI.cs" t="Include" />
+          <e p="ObjectPool.cs" t="Include" />
+          <e p="PauseMenu.cs" t="Include" />
+          <e p="PlayerStats.cs" t="Include" />
+          <e p="RoundsSurvived.cs" t="Include" />
+          <e p="Shop.cs" t="Include" />
+          <e p="Tile.cs" t="Include" />
+          <e p="Tower.cs" t="Include" />
+          <e p="TowerBlueprint.cs" t="Include" />
+          <e p="TowerUI.cs" t="Include" />
+          <e p="Wave.cs" t="Include" />
+          <e p="WaveSpawner.cs" t="Include" />
+          <e p="WaypointCheck.cs" t="Include" />
+          <e p="Waypoints.cs" t="Include" />
+        </e>
+      </e>
+      <e p="DefenseGame.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+    <e p="C:\Users\asz37\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\asz37\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_DefenseGame.-237755882.00" t="ExcludeRecursive" />
+  </component>
+</project>
