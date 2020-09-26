@@ -37,7 +37,7 @@
 ## 참고한 게임
 <table>
    <tr>
-      <td><img src="/Images/랜덤다이스.JPG" width="100%"></td>
+      <td><img src="/Images/랜덤다이스.png" width="100%"></td>
    </tr>
     <tr>
       <td><div align="center">랜덤다이스</div></td>
@@ -48,7 +48,7 @@
 <img src="/Images/SimpleUML.png" width="100%">
 
 ## 배운 점
-**1. object pooling**  
-총알 오브젝트 풀링 구현
-**2. UI 애니메이션**  
-메인, 게임클리어, 오버 화면 애니메이션 구현
+**1. object pooling**    
+총알 오브젝트 풀링 구현  
+**2. UI 애니메이션**    
+메인, 게임클리어, 오버 화면 애니메이션 구현  
