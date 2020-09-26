@@ -37,10 +37,10 @@
 ## 참고한 게임
 <table>
    <tr>
-      <td><img src="/Images/랜덤다이스.png" width="100%"></td>
+      <td><img src="/Images/랜덤다이스.jpg" width="100%"></td>
    </tr>
     <tr>
-           <td><div align="center">랜덤다이스</div></td>
+      <td><div align="center">랜덤다이스</div></td>
    </tr>
 </table>
 
