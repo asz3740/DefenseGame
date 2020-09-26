@@ -1,4 +1,4 @@
-# squareDefense (2DDefenseGame)
+# SquareDefense (2DDefenseGame)
 
 ## 게임 소개
 다양하 타워들을 설치하여 몰려오는 적을 막는 타워 디펜스 게임
