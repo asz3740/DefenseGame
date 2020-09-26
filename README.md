@@ -16,8 +16,8 @@
       <td><img src="/Images/Ingame.png" width="100%"></td>
    </tr>
    <tr>
-      <td><div align="center" >메인</div></td>
-      <td><div align="center" >인게임</div></td>
+      <td><div align="center">메인</div></td>
+      <td><div align="center">인게임</div></td>
    </tr>
    <tr>
       <td><img src="/Images/Pause.png" width="100%"></td>
