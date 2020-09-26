@@ -25,7 +25,6 @@ public class WaveSpawner : MonoBehaviour
       
         if (waveNumber == waves.Length && EnemiesAlive <=0)
         {    
-            print("들어왔다");
             gameManager.WinLevel();
             enabled = false;
         }
@@ -74,8 +73,6 @@ public class WaveSpawner : MonoBehaviour
     void SpawnEnemy (GameObject enemy)
     {
         EnemiesAlive++;
-        Instantiate(enemy, spawnPoint.position, spawnPoint.rotation);
-        print("생성"+EnemiesAlive);
-      
+        Instantiate(enemy, spawnPoint.position, spawnPoint.rotation);     
     }
 }
