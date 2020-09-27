@@ -30,7 +30,7 @@
 </table>
 
 ## 시연 영상
-[시연 영상](https://www.youtube.com/watch?v=mrGftSrJ0K0&t=39s)
+[시연 영상](https://www.youtube.com/watch?v=mrGftSrJ0K0&t)
 
 ## 개발일정
 기획 | 클래스 및 기능 설계 | 구현 | 테스트
