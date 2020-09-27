@@ -3,6 +3,9 @@
 ## 게임 소개
 다양하 타워들을 설치하여 몰려오는 적을 막는 타워 디펜스 게임
 
+## 시연 영상
+[시연 영상](https://www.youtube.com/watch?v=mrGftSrJ0K0&t)
+
 ## 특징
 1. 4가지 타워를 활용해 다양한 전략을 세우세요
 2. 다양하 특징을 가지고 있느 적들을 막으세요
@@ -28,9 +31,6 @@
       <td><div align="center" >게임오버</div></td>
    </tr>
 </table>
-
-## 시연 영상
-[시연 영상](https://www.youtube.com/watch?v=mrGftSrJ0K0&t)
 
 ## 개발일정
 기획 | 클래스 및 기능 설계 | 구현 | 테스트
