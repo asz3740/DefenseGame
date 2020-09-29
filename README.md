@@ -1,7 +1,10 @@
-# squareDefense (2DDefenseGame)
+# SquareDefense (2DDefenseGame)
 
 ## 게임 소개
 다양하 타워들을 설치하여 몰려오는 적을 막는 타워 디펜스 게임
+
+## 시연 영상
+[시연 영상](https://www.youtube.com/watch?v=mrGftSrJ0K0&t)
 
 ## 특징
 1. 4가지 타워를 활용해 다양한 전략을 세우세요
@@ -32,12 +35,12 @@
 ## 개발일정
 기획 | 클래스 및 기능 설계 | 구현 | 테스트
 :----:| :---------------: | :---: | :-----: 
-2019.9 | 2019.9 | 2019.10 | 2019.10
+2019.09 | 2019.09 | 2019.10 | 2019.10
 
 ## 참고한 게임
 <table>
    <tr>
-      <td><img src="/Images/랜덤다이스.jpg" width="100%"></td>
+      <td><img src="/Images/랜덤다이스.webp" width="100%"></td>
    </tr>
     <tr>
       <td><div align="center">랜덤다이스</div></td>
