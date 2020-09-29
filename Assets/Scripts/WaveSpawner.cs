@@ -22,7 +22,6 @@ public class WaveSpawner : MonoBehaviour
 
     void Update ()
     {
-      
         if (waveNumber == waves.Length && EnemiesAlive <=0)
         {    
             gameManager.WinLevel();
@@ -46,11 +45,6 @@ public class WaveSpawner : MonoBehaviour
         {
             countDownText.enabled = false;
         }
-
-
-
-
-
     }
 
     IEnumerator SpawnWave()
@@ -67,7 +61,6 @@ public class WaveSpawner : MonoBehaviour
         }
 
         waveNumber++;
-
     }
 
     void SpawnEnemy (GameObject enemy)
