@@ -15,16 +15,16 @@
 ## 게임화면
 <table border="1">
    <tr>
-      <td><img src="/Images/Main.png" width="100%"></td>
-      <td><img src="/Images/Ingame.png" width="100%"></td>
+      <td><img src="/Images/Main.jpg" width="100%"></td>
+      <td><img src="/Images/Ingame.jpg" width="100%"></td>
    </tr>
    <tr>
       <td><div align="center">메인</div></td>
       <td><div align="center">인게임</div></td>
    </tr>
    <tr>
-      <td><img src="/Images/Pause.png" width="100%"></td>
-      <td><img src="/Images/GameOver.png" width="100%"></td>
+      <td><img src="/Images/Pause.jpg" width="100%"></td>
+      <td><img src="/Images/GameOver.jpg" width="100%"></td>
    </tr>
    <tr>
       <td><div align="center" >일시정지</div></td>
@@ -40,7 +40,7 @@
 ## 참고한 게임
 <table>
    <tr>
-      <td><img src="/Images/랜덤다이스.webp" width="100%"></td>
+      <td><img src="/Images/랜덤다이스.jpg" width="100%"></td>
    </tr>
     <tr>
       <td><div align="center">랜덤다이스</div></td>
@@ -48,7 +48,7 @@
 </table>
 
 ## Simple UML
-<img src="/Images/SimpleUML.png" width="100%">
+<img src="/Images/SimpleUML.jpg" width="100%">
 
 ## 배운 점
 **1. object pooling**    
