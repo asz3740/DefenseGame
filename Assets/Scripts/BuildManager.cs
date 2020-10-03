@@ -56,6 +56,7 @@ public class BuildManager : MonoBehaviour
 
     public TowerBlueprint GetTowerToBuild()
     {
+        SoundManager.Instance.Build();
         return TowerToBuild;
     }
 }

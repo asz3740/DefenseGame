@@ -42,7 +42,7 @@ public class Bullet : MonoBehaviour
     {
         if (impactEffect.CompareTag("StandardEffect"))
         {
-             effectIns = ObjectPool.SharedInstance.GetPooledObject("StandardEffect") ;
+            effectIns = ObjectPool.SharedInstance.GetPooledObject("StandardEffect") ;
         }
         else
         {

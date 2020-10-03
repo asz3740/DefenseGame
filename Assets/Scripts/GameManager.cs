@@ -13,6 +13,7 @@ public class GameManager : MonoBehaviour
     {
         GameIsOver = false;
     }
+
     void Update()
     {
         if (GameIsOver)

@@ -133,7 +133,7 @@ public class Tower : MonoBehaviour
     // 레이저 타워 메소드
     void Laser()
     {
-        // 
+        //
         TargetEnemy.TakeDamage(damageOverTime * Time.deltaTime);
         if (!LineRenderer.enabled)
             LineRenderer.enabled = true;
@@ -149,22 +149,28 @@ public class Tower : MonoBehaviour
         switch (BulletPrefab.tag)
         {
             case "SpeedBullet" :
-                bullet = ObjectPool.SharedInstance.GetPooledObject("SpeedBullet") ;
+                SoundManager.Instance.Attack1();
+                bullet = ObjectPool.SharedInstance.GetPooledObject("SpeedBullet");
                 break;
             case "SpeedBullet_Upgraded" :
+                SoundManager.Instance.Attack1();
                 bullet = ObjectPool.SharedInstance.GetPooledObject("SpeedBullet_Upgraded") ;
                 break;
             case "IceBullet" :
+                SoundManager.Instance.Attack2();
                 bullet = ObjectPool.SharedInstance.GetPooledObject("IceBullet");
                 break;
             case "IceBullet_Upgraded":
+                SoundManager.Instance.Attack2();
                 bullet = ObjectPool.SharedInstance.GetPooledObject("IceBullet_Upgraded");
                 break;
             case "ExplosionBullet" :
                 print("1241421");
+                SoundManager.Instance.Attack3();
                 bullet = ObjectPool.SharedInstance.GetPooledObject("ExplosionBullet");
                 break;
             case "ExplosionBullet_Upgraded" :
+                SoundManager.Instance.Attack3();
                 bullet = ObjectPool.SharedInstance.GetPooledObject("ExplosionBullet_Upgraded");
                 break;
         }
